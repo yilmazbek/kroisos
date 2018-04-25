@@ -1,0 +1,2 @@
+# kroisos
+krncoin
